@@ -1,0 +1,40 @@
+body {
+    background-color: #a9cdf1;
+}
+
+header {
+    margin: 2vh auto;
+}
+
+header, nav, main {
+    background-color: #fff;
+    min-height: 10vh;
+}
+
+nav, main {
+    min-height: 82vh;
+}
+
+@media (min-width: 576px) {
+    h1{ color: blue;
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) {
+    h1{ color: blue;
+        text-align: center;
+    }
+}
+
+@media (min-width: 992px) {
+    h1{ color: blue;
+        text-align: center;
+    }
+}
+
+@media (min-width: 1200px) {
+    h1{ color: blue;
+        text-align: center;
+    }
+}
